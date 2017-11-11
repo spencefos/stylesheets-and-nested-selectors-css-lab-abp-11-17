@@ -15,20 +15,20 @@ header nav ul {
   padding: 0;
   margin: 40px 0 0 0;
 }
-header nav ul li {
+nav ul li {
   display: inline;
   margin-right: 10px;
 }
-header nav a {
+nav a {
   text-decoration: none;
   color: #007bff;
   font-size: 18px;
 }
-header h3 {
+h3 {
   float: left;
   font-size: 30px;
 }
-header h3 a {
+h3 a {
   text-decoration: none;
   color: #868e96;
 }
